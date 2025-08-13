@@ -8,13 +8,13 @@ Script simples para iniciantes em Python para contar quantas palavras contém um
 ## 🚀 Como usar
 1. Copie este reporsitório
    ````bash
-   git clone https://github.com/iagohvvs/contador-de-palavras.git
+   git clone https://github.com/iagohvvs/Contador-de-palavras.git
 2. Entre na pasta:
    ````bash
-   cd contador-de-palavras
+   cd Contador-de-palavras
 3. Execute o script:
    ````bash
-   python contador-de-palavras.py
+   python Contador-de-palavras.py
 
 ## 💡 Exemplo de uso
 Entrada:
